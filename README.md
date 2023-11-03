@@ -8,7 +8,7 @@
 <body>
     
   <p>Pokemon karakterlerinin olduğu bir web sitesi... </p>
-<h2 id="built-with">Built With</h2>
+<h2 id="built-with">Kullanılan Programlar</h2>
   <ul>
     <li>HTML</li>
     <li>CSS</li>
@@ -20,5 +20,6 @@
 </body>
 </html>
 
-<!-- Screenshot ![](reactpoke.gif) -->
+![](/reactpoke.gif)
+
 # pokemonReact
